@@ -6,4 +6,4 @@ Agregando linea en la rama pruebagit
 
  crear rama nueva roger d
 
- anotado
+ anotado w
